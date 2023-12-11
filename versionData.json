@@ -568,59 +568,59 @@
           "amon gus"
         ],
         "featured": [
-          {
-            "name": "Wistful Reunion",
-			"author": "JetNine",
-			"authorSocial": "https://youtube.com/@jetnine3401?feature=shared",
-			"gems": 20,
-			"crowns": 3,
-			"rating": 5.7,
-			"path": "weekly/jetnine/WistfulReunion.rsr",
-			"thumbnail": "weekly/jetnine/WistfulReunion.png"
-          },
-          {
-            "name": "Level Three",
-            "author": "BroXgamer",
-            "authorSocial": "https://www.youtube.com/@_BroX_",
-            "gems": 10,
-            "crowns": 3,
-            "rating": 5.8,
-            "path": "weekly/broxgamer/LevelThree.rsr",
-            "thumbnail": "weekly/broxgamer/LevelThree.png"
-          },
-          {
-			"name": "Land of Harmonies",
-			"author": "AmberRS",
-			"authorSocial": "https://youtube.com/@amberRS?si=bvPuZt0FtcWrTPvm",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "weekly/amberrs/LandofHarmonies.rsr",
-			"thumbnail": "weekly/amberrs/LandofHarmonies.png"
-          },
-          {
-            "name": "Adrenaline Rush",
-			"author": "Sneek22",
-			"authorSocial": "https://www.youtube.com/@Sneek22",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "weekly/sneek22/AdrenalineRush.rsr",
-			"thumbnail": "weekly/sneek22/AdrenalineRush.png"
-          },
-          {
-			"name": "Mechanoid Raid",
-			"author": "TotallyLiam",
-			"authorSocial": "https://www.youtube.com/channel/UC0-Hb-HW8Tt6dI_Kptwo6rA",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "weekly/totallyliam/MechanoidRaid.rsr",
-			"thumbnail": "weekly/totallyliam/MechanoidRaid.png"
-          },
-          {
+			{
+			"name": "Connection Hijack",
+	        "author": "Unsent1mental",
+	        "authorSocial": " https://youtube.com/@nosentimental?si=vu010hBygB-L6aKB",
+	        "gems": 10,
+	        "crowns": 3,
+	        "rating": 5.5,
+	        "path": "weekly/unsent1mental/ConnectionHijack.rsr",
+	        "thumbnail": "weekly/unsent1mental/ConnectionHijack.png"
+			},
+			{
+	        "name": "Voices from the Past",
+	        "author": "KaizyRS",
+	        "authorSocial": "https://youtube.com/@RS_Creator_Kaizy?si=NJ8QWyvhxm-KZStY",
+	        "gems": 10,
+	        "crowns": 0,
+	        "rating": 3.4,
+	        "path": "weekly/kaizyrs/VoicesfromthePast.rsr",
+	        "thumbnail": "weekly/kaizyrs/VoicesfromthePast.png"
+			},
+			{
+			"name": "Robot Invasion",
+	        "author": "TotallyLiam",
+	        "authorSocial": "https://www.youtube.com/channel/UC0-Hb-HW8Tt6dI_Kptwo6rA",
+	        "gems": 10,
+	        "crowns": 3,
+	        "rating": 3.8,
+	        "path": "weekly/totallyliam/RobotInvasion.rsr",
+	        "thumbnail": "weekly/totallyliam/RobotInvasion.png"
+			},
+			{
+	        "name": "Intergalactic Space",
+	        "author": "MasterMonivin",
+	        "authorSocial": "https://www.youtube.com/MasterMonivin45M45",
+	        "gems": 10,
+	        "crowns": 3,
+	        "rating": 2.5,
+	        "path": "weekly/mastermonivin/IntergalacticSpace.rsr",
+	        "thumbnail": "weekly/mastermonivin/IntergalacticSpace.png"
+			},
+			{
+			"name": "Sunset Rays",
+	        "author": "AmberRS",
+	        "authorSocial": "https://youtube.com/@amberRS?si=bvPuZt0FtcWrTPvm",
+	        "gems": 10,
+	        "crowns": 3,
+	        "rating": 5,
+	        "path": "weekly/amberrs/SunsetRays.rsr",
+	        "thumbnail": "weekly/amberrs/SunsetRays.png"
+		   },
+		   {
             "name": "Obstacle Demo",
-            "author": "Mama Gay",
+            "author": "Mama Kat",
             "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
             "type": 0,
             "gems": 10,
@@ -628,10 +628,10 @@
             "rating": 3.5,
             "path": "weekly/mama_kat/ObstacleDemo.rsr",
             "thumbnail": "weekly/mama_kat/ObstacleDemo.png"
-          },
-          {
+           },
+           {
             "name": "Dynamical",
-            "author": "BroXGamer",
+            "author": "Bagel",
             "authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
             "type": 0,
             "gems": 10,
@@ -639,10 +639,10 @@
             "rating": 3.7,
             "path": "weekly/broxgamer/Dynamical.rsr",
             "thumbnail": "weekly/broxgamer/Dynamical.png"
-          },
-          {
+           },
+           {
             "name": "Monster Friendly",
-            "author": "Mama Gay & Rodri",
+            "author": "Mama Kat & Rodri",
             "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
             "type": 0,
             "gems": 15,
