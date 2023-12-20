@@ -2,10 +2,10 @@
   "latest": "1.2.9",
   "latestUrl": [
     "Null",
-    "https://www.mediafire.com/file/01vsdxzjc877sxu/RollingSkyRemake-1.2.9r-Windows.zip/file",
+    "https://github.com/sqdldev/rolling-sky-remake/releases/download/1.2.9/RollingSkyRemake-1.2.9r-Windows.zip",
     "Linux",
     "MacOS",
-    "https://www.mediafire.com/file/nmzff73vcz1dbch/RollingSkyRemake-1.2.9r-Android.apk/file",
+    "https://github.com/sqdldev/rolling-sky-remake/releases/download/1.2.9/RollingSkyRemake-1.2.9r-Android.apk",
     "iOS"
   ],
   "versions": [
