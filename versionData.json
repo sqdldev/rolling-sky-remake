@@ -1,19 +1,11 @@
 {
-  "latest": "1.2.9",
-  "latestUrl1": [
-    "Null",
-    "https://www.youtube.com/watch?v=xvFZjo5PgG0",
-    "Linux",
-    "MacOS",
-    "https://www.youtube.com/watch?v=xvFZjo5PgG0",
-    "iOS"
-  ],
+  "latest": "1.2.6",
   "latestUrl": [
     "Null",
-    "https://www.mediafire.com/file/pou91m41yoiw8fj/RollingSkyRemake-1.2.9r-Windows-MenuFix.zip/file",
+    "https://www.mediafire.com/file/gzpfnganf69jseg/RollingSkyRemake-1.2.6r-Windows.zip/file",
     "Linux",
     "MacOS",
-    "https://www.mediafire.com/file/hf4zngc6agzd7pj/RollingSkyRemake-1.2.9r-Android.apk/file",
+    "https://www.mediafire.com/file/39ebj9scpt2d993/RollingSkyRemake-1.2.6r-Android.apk/file",
     "iOS"
   ],
   "versions": [
@@ -123,6 +115,433 @@
     },
     {
       "code": [
+        "week 1 10-29-2023 - 11-05-2023"
+      ],
+      "flags": [],
+      "data": {
+        "changelog": [
+          "amon gus"
+        ],
+        "featured": [
+          {
+            "name": "Torment Smiles",
+            "author": "AmberRS",
+            "authorSocial": "https://www.youtube.com/channel/UC5kq7yyPKdH83gMdi_3vj0Q",
+            "type": 1,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5,
+            "path": "halloween/amberrs/TormentSmiles.rsr",
+            "thumbnail": "halloween/amberrs/TormentSmiles.png"
+          },
+          {
+            "name": "Eerie Alley",
+            "author": "CosmoS",
+            "authorSocial": "https://www.youtube.com/channel/UCdsV5moTKWHgf_RswuIwSbA",
+            "type": 1,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5,
+            "path": "halloween/cosmos/EerieAlley.rsr",
+            "thumbnail": "halloween/cosmos/EerieAlley.png"
+          },
+          {
+            "name": "Electr-O-Lantern",
+            "author": "JetNine",
+            "authorSocial": "https://www.youtube.com/channel/UC-orFe9e0Ct_a-zf5FO89MQ",
+            "type": 1,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5,
+            "path": "halloween/jetnine/ElectrOLantern.rsr",
+            "thumbnail": "halloween/jetnine/ElectrOLantern.png"
+          },
+          {
+            "name": "HYPE",
+            "author": "Sneek22",
+            "authorSocial": "https://www.youtube.com/channel/UC8wWjAVyTeSkWc11NulB5UQ",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4,
+            "path": "weekly/sneek22/HYPE.rsr",
+            "thumbnail": "weekly/sneek22/HYPE.png"
+          },
+          {
+            "name": "Cipher",
+            "author": "CosmoS",
+            "authorSocial": "https://www.youtube.com/channel/UCdsV5moTKWHgf_RswuIwSbA",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 3,
+            "path": "weekly/cosmos/Cipher.rsr",
+            "thumbnail": "weekly/cosmos/Cipher.png"
+          },
+          {
+            "name": "Vacation",
+            "author": "Huy Trien",
+            "authorSocial": "https://www.youtube.com/channel/UC9ZNO3WWEsd1aiLXuwLDNGg",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 1,
+            "path": "weekly/huy_trien/Vacation.rsr",
+            "thumbnail": "weekly/huy_trien/Vacation.png"
+          },
+          {
+            "name": "Home Sweet Home",
+            "author": "FrogB",
+            "authorSocial": "https://www.youtube.com/channel/UCtxgAtJxXIKyXKXnnJpsj3w",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5,
+            "path": "weekly/frogb/HomeSweetHome.rsr",
+            "thumbnail": "weekly/frogb/HomeSweetHome.png"
+          },
+          {
+            "name": "Renaissance Time",
+            "author": "KaizyRS",
+            "authorSocial": "https://www.youtube.com/channel/UCp4ILW0F2K85MJ5-Q4SjYbw",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4,
+            "path": "weekly/kaizyrs/RenaissanceTime.rsr",
+            "thumbnail": "weekly/kaizyrs/RenaissanceTime.png"
+          },
+          {
+            "name": "Obstacle Demo",
+            "author": "Mama Kat",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 3.5,
+            "path": "weekly/mamakat/ObstacleDemo.rsr",
+            "thumbnail": "weekly/mamakat/ObstacleDemo.png"
+          },
+          {
+            "name": "Dynamical",
+            "author": "BroXGamer",
+            "authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
+            "type": 0,
+            "gems": 10,
+            "crowns": 0,
+            "rating": 3.7,
+            "path": "weekly/broxgamer/Dynamical.rsr",
+            "thumbnail": "weekly/broxgamer/Dynamical.png"
+          },
+          {
+            "name": "Monster Friendly",
+            "author": "Mama Kat & Rodri",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 15,
+            "crowns": 3,
+            "rating": 6,
+            "path": "weekly/mamakat/MonsterFriendly.rsr",
+            "thumbnail": "weekly/mamakat/MonsterFriendly.png"
+          }
+        ]
+      }
+    },
+    {
+      "code": [
+        "week 2"
+      ],
+      "flags": [],
+      "data": {
+        "changelog": [
+          "amon gus"
+        ],
+        "featured": [
+          {
+            "name": "Cheese Paradise",
+            "author": "AmberRS",
+            "authorSocial": "https://www.youtube.com/channel/UC5kq7yyPKdH83gMdi_3vj0Q",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5,
+            "path": "weekly/amberrs/CheeseParadise.rsr",
+            "thumbnail": "weekly/amberrs/CheeseParadise.png"
+          },
+          {
+            "name": "Checkmate",
+            "author": "ObleDoesStuff",
+            "authorSocial": "https://www.youtube.com/channel/UCZ5DL57TREfnKLHbgFp4oGQ",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 2,
+            "path": "weekly/obledoesstuff/Checkmate.rsr",
+            "thumbnail": "weekly/obledoesstuff/Checkmate.png"
+          },
+          {
+            "name": "Alone Part II",
+            "author": "HebJose",
+            "authorSocial": "https://www.reddit.com/user/HebJose_23/",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4,
+            "path": "weekly/hebjose/AlonePartII.rsr",
+            "thumbnail": "weekly/hebjose/AlonePartII.png"
+          },
+          {
+            "name": "Shipwreck'd",
+            "author": "TJAT (RSO)",
+            "authorSocial": "https://www.youtube.com/channel/UCyKjA3LoUWfH26e5OuJVuJg",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 3,
+            "path": "weekly/tjat_rso/Shipwreckd.rsr",
+            "thumbnail": "weekly/tjat_rso/Shipwreckd.png"
+          },
+          {
+            "name": "Neo City",
+            "author": "Lexay",
+            "authorSocial": "https://www.youtube.com/channel/UCabzQTpX5Q9JBEzLH2I4kJg",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5,
+            "path": "weekly/lexay/NeoCity.rsr",
+            "thumbnail": "weekly/lexay/NeoCity.png"
+          },
+          {
+            "name": "Obstacle Demo",
+            "author": "Mama Kat",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 3.5,
+            "path": "weekly/mamakat/ObstacleDemo.rsr",
+            "thumbnail": "weekly/mamakat/ObstacleDemo.png"
+          },
+          {
+            "name": "Dynamical",
+            "author": "BroXGamer",
+            "authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
+            "type": 0,
+            "gems": 10,
+            "crowns": 0,
+            "rating": 3.7,
+            "path": "weekly/broxgamer/Dynamical.rsr",
+            "thumbnail": "weekly/broxgamer/Dynamical.png"
+          },
+          {
+            "name": "Monster Friendly",
+            "author": "Mama Kat & Rodri",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 15,
+            "crowns": 3,
+            "rating": 6,
+            "path": "weekly/mamakat/MonsterFriendly.rsr",
+            "thumbnail": "weekly/mamakat/MonsterFriendly.png"
+          }
+        ]
+      }
+    },
+    {
+      "code": [
+        "week 3"
+      ],
+      "flags": [],
+      "data": {
+        "changelog": [
+          "amon gus"
+        ],
+        "featured": [
+          {
+            "name": "Super Shy",
+            "author": "Mama Kat",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4.8,
+            "path": "weekly/mama_kat/SuperShy.rsr",
+            "thumbnail": "weekly/mama_kat/SuperShy.png"
+          },
+          {
+            "name": "Feast Frenzy",
+            "author": "DJH",
+            "authorSocial": "https://www.youtube.com/channel/UCyKjA3LoUWfH26e5OuJVuJg",
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4,
+            "path": "weekly/tjat_rso/FeastFrenzy.rsr",
+            "thumbnail": "weekly/tjat_rso/FeastFrenzy.png"
+          },
+          {
+            "name": "Transversal",
+            "author": "JetNine & Unsent1mental",
+            "authorSocial": "",
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4.2,
+            "path": "weekly/jetnine/Transversal.rsr",
+            "thumbnail": "weekly/jetnine/Transversal.png"
+          },
+          {
+            "name": "Chinese Festival",
+            "author": "AmberRS",
+            "authorSocial": "amberrs",
+            "gems": 15,
+            "crowns": 3,
+            "rating": 6,
+            "path": "weekly/amberrs/ChineseFestival.rsr",
+            "thumbnail": "weekly/amberrs/ChineseFestival.png"
+          },
+          {
+            "name": "Electric Mystery",
+            "author": "asherytn",
+            "authorSocial": "",
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4,
+            "path": "weekly/asherytn/ElectricMystery.rsr",
+            "thumbnail": "weekly/asherytn/ElectricMystery.png"
+          },
+          {
+            "name": "Obstacle Demo",
+            "author": "Mama Kat",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 3.5,
+            "path": "weekly/mama_kat/ObstacleDemo.rsr",
+            "thumbnail": "weekly/mama_kat/ObstacleDemo.png"
+          },
+          {
+            "name": "Dynamical",
+            "author": "BroXGamer",
+            "authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
+            "type": 0,
+            "gems": 10,
+            "crowns": 0,
+            "rating": 3.7,
+            "path": "weekly/broxgamer/Dynamical.rsr",
+            "thumbnail": "weekly/broxgamer/Dynamical.png"
+          },
+          {
+            "name": "Monster Friendly",
+            "author": "Mama Kat & Rodri",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 15,
+            "crowns": 3,
+            "rating": 6,
+            "path": "weekly/mama_kat/MonsterFriendly.rsr",
+            "thumbnail": "weekly/mama_kat/MonsterFriendly.png"
+          }
+        ]
+      }
+    },
+    {
+      "code": [
+        "week "
+      ],
+      "flags": [],
+      "data": {
+        "changelog": [
+          "amon gus"
+        ],
+        "featured": [
+          {
+            "name": "Adventure",
+            "author": "extremisea",
+            "authorSocial": "https://www.youtube.com/channel/UCCTXjiUF1JJG7uKeUOzM-8A",
+            "gems": 10,
+            "crowns": 0,
+            "rating": 3.7,
+            "path": "weekly/extremisea/Adventure.rsr",
+            "thumbnail": "weekly/extremisea/Adventure.png"
+          },
+          {
+            "name": "Constellation",
+            "author": "MasterMonivin",
+            "authorSocial": "https://www.youtube.com/MasterMonivin45M45",
+            "gems": 10,
+            "crowns": 3,
+            "rating": 4.6,
+            "path": "weekly/mastermonivin/Constellation.rsr",
+            "thumbnail": "weekly/mastermonivin/Constellation.png"
+          },
+          {
+            "name": "Shock-out",
+            "author": "Aran",
+            "authorSocial": "https://www.youtube.com/@aran767",
+            "gems": 15,
+            "crowns": 3,
+            "rating": 4.6,
+            "path": "weekly/aran/Shock-out.rsr",
+            "thumbnail": "weekly/aran/Shock-out.png"
+          },
+          {
+            "name": "Guiding Light",
+            "author": "FrogB",
+            "authorSocial": "https://linktr.ee/FrogB",
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5,
+            "path": "weekly/frogb/GuidingLight.rsr",
+            "thumbnail": "weekly/frogb/GuidingLight.png"
+          },
+          {
+            "name": "ACF",
+            "author": "JetNine",
+            "authorSocial": "",
+            "gems": 10,
+            "crowns": 3,
+            "rating": 5.6,
+            "path": "weekly/jetnine/acf.rsr",
+            "thumbnail": "weekly/jetnine/ACF.png"
+          },
+          {
+            "name": "Obstacle Demo",
+            "author": "Mama Kat",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 3.5,
+            "path": "weekly/mama_kat/ObstacleDemo.rsr",
+            "thumbnail": "weekly/mama_kat/ObstacleDemo.png"
+          },
+          {
+            "name": "Dynamical",
+            "author": "BroXGamer",
+            "authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
+            "type": 0,
+            "gems": 10,
+            "crowns": 0,
+            "rating": 3.7,
+            "path": "weekly/broxgamer/Dynamical.rsr",
+            "thumbnail": "weekly/broxgamer/Dynamical.png"
+          },
+          {
+            "name": "Monster Friendly",
+            "author": "Mama Kat & Rodri",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 15,
+            "crowns": 3,
+            "rating": 6,
+            "path": "weekly/mama_kat/MonsterFriendly.rsr",
+            "thumbnail": "weekly/mama_kat/MonsterFriendly.png"
+          }
+        ]
+      }
+    },
+    {
+      "code": [
         "1.1.0",
         "1.1.1",
         "1.1.2",
@@ -141,13 +560,7 @@
         "1.2.6",
         "1.2.7",
         "1.2.8",
-        "1.2.9",
-        "1.2.10",
-        "1.2.11",
-        "1.2.12",
-        "1.2.13",
-        "1.2.14",
-        "1.2.15"
+        "1.2.9"
       ],
       "flags": [],
       "data": {
@@ -156,54 +569,58 @@
         ],
         "featured": [
 			{
-			"name": "Connection Hijack",
-	        "author": "Unsent1mental",
-	        "authorSocial": " https://youtube.com/@nosentimental",
-	        "gems": 10,
-	        "crowns": 3,
-	        "rating": 5.5,
-	        "path": "weekly/unsent1mental/ConnectionHijack.rsr",
-	        "thumbnail": "weekly/unsent1mental/ConnectionHijack.png"
+			"name": "Christmas Bustle",
+			"author": "KaizyRS",
+			"authorSocial": "https://youtube.com/@RS_Creator_Kaizy?si=NJ8QWyvhxm-KZStY",
+			"gems": 10,
+			"crowns": 3,
+			"type": 2,
+			"rating": 4.4,
+			"path": "christmas/kaizyrs/ChristmasBustle.rsr",
+			"thumbnail": "christmas/kaizyrs/ChristmasBustle.png"
 			},
 			{
-	        "name": "Voices from the Past",
-	        "author": "KaizyRS",
-	        "authorSocial": "https://youtube.com/@RS_Creator_Kaizy",
-	        "gems": 10,
-	        "crowns": 0,
-	        "rating": 3.4,
-	        "path": "weekly/kaizyrs/VoicesfromthePast.rsr",
-	        "thumbnail": "weekly/kaizyrs/VoicesfromthePast.png"
+	        "name": "Santa's Dreamland",
+			"author": "Lexay",
+			"authorSocial": "https://www.youtube.com/channel/UCrfoAiBBdfUejFNzWn8YENg",
+			"gems": 20,
+			"crowns": 3,
+			"type": 2,
+			"rating": 6,
+			"path": "christmas/lexay/SantasDreamland.rsr",
+			"thumbnail": "christmas/lexay/SantasDreamland.png"
 			},
 			{
-			"name": "Robot Invasion",
-	        "author": "TotallyLiam",
-	        "authorSocial": "https://www.youtube.com/channel/UC0-Hb-HW8Tt6dI_Kptwo6rA",
-	        "gems": 10,
-	        "crowns": 3,
-	        "rating": 3.8,
-	        "path": "weekly/totallyliam/RobotInvasion.rsr",
-	        "thumbnail": "weekly/totallyliam/RobotInvasion.png"
+			"name": "Snowdrop",
+			"author": "Unsent1mental",
+			"authorSocial": "https://youtube.com/@nosentimental?si=ekr4aU3OJ9fpBXWT",
+			"gems": 10,
+			"crowns": 3,
+			"type": 2,
+			"rating": 3,
+			"path": "christmas/unsent1mental/Snowdrop.rsr",
+			"thumbnail": "christmas/unsent1mental/Snowdrop.png"
 			},
 			{
-	        "name": "Intergalactic Space",
-	        "author": "MasterMonivin",
-	        "authorSocial": "https://www.youtube.com/MasterMonivin45M45",
-	        "gems": 10,
-	        "crowns": 3,
-	        "rating": 2.5,
-	        "path": "weekly/mastermonivin/IntergalacticSpace.rsr",
-	        "thumbnail": "weekly/mastermonivin/IntergalacticSpace.png"
+	       "name": "Winter Fun",
+			"author": "GDFlutter",
+			"authorSocial": "https://www.youtube.com/@GMDThread8/featured",
+			"gems": 20,
+			"crowns": 3,
+			"type": 2,
+			"rating": 2.5,
+			"path": "christmas/gdflutter/WinterFun.rsr",
+			"thumbnail": "christmas/gdflutter/WinterFun.png"
 			},
 			{
-			"name": "Sunset Rays",
-	        "author": "AmberRS",
-	        "authorSocial": "https://youtube.com/@amberRS",
-	        "gems": 10,
-	        "crowns": 3,
-	        "rating": 5,
-	        "path": "weekly/amberrs/SunsetRays.rsr",
-	        "thumbnail": "weekly/amberrs/SunsetRays.png"
+			"name": "Mistletoe Town",
+			"author": "TotallyLiam",
+			"authorSocial": "https://www.youtube.com/channel/UC0-Hb-HW8Tt6dI_Kptwo6rA",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 4.9,
+			"path": "christmas/totallyliam/MistletoeTown.rsr",
+			"thumbnail": "christmas/totallyliam/MistletoeTown.png"
 		   },
 		   {
             "name": "Obstacle Demo",
@@ -218,7 +635,7 @@
            },
            {
             "name": "Dynamical",
-            "author": "amon gussy",
+            "author": "im balling",
             "authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
             "type": 0,
             "gems": 10,
@@ -229,7 +646,7 @@
            },
            {
             "name": "Monster Friendly",
-            "author": "Gay & Rodri",
+            "author": "Mama Kat & Lodri",
             "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
             "type": 0,
             "gems": 15,
