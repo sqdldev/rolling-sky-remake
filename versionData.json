@@ -569,6 +569,17 @@
         ],
         "featured": [
 			{
+				"name": "<color=\"#ff0000\">ANNOUNCEMENT</color>",
+				"author": "\n\n\n\nRecently, there have been\ncomplaints about objects\nare broken and some are\ngone, in this case, switch to\n<color=\"#ff0000\">REALTIME</color> Object Loading",
+				"authorSocial": "",
+				"type": 0,
+				"gems": 0,
+				"crowns": 0,
+				"rating": 0,
+				"path": "Gusbound.rsr",
+				"thumbnail": "warn.png"
+			},
+			{
 			"name": "Christmas Bustle",
 			"author": "KaizyRS",
 			"authorSocial": "https://youtube.com/@RS_Creator_Kaizy?si=NJ8QWyvhxm-KZStY",
