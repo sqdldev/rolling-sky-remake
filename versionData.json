@@ -601,13 +601,23 @@
 			"path": "Gusbound.rsr",
 			"thumbnail": "warn.png"
 			},
+          {
+            "name": "Obstacle Demo",
+            "author": "Mama Kat",
+            "authorSocial": "https://www.youtube.com/channel/UC-GnVxUIAwKRfdSSXWcKNuw",
+            "type": 0,
+            "gems": 10,
+            "crowns": 3,
+            "rating": 3.5,
+            "path": "weekly/mama_kat/ObstacleDemo.rsr",
+            "thumbnail": "weekly/mama_kat/ObstacleDemo.png"
+          },
            {
             "name": "Dynamical",
             "author": "im still balling",
             "authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
             "type": 0,
             "gems": 50,
-			"type": 1,
             "crowns": 6,
             "rating": 39.7,
             "path": "weekly/broxgamer/Dynamical.rsr",
