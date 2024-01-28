@@ -580,54 +580,44 @@
         ],
         "featured": [
 			{
-			"name": "CONTAMINATION",
-			"author": "FrogB",
-			"authorSocial": "https://linktr.ee/FrogB",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 6,
-			"path": "weekly/frogb/CONTAMINATION.rsr",
-			"thumbnail": "weekly/frogb/CONTAMINATION.png"
-			},
-			{
-			"name": "Bittersweet Urban",
-			"author": "FrogB",
-			"authorSocial": "https://linktr.ee/FrogB",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "weekly/frogb/BittersweetUrban.rsr",
-			"thumbnail": "weekly/frogb/BittersweetUrban.png"
-			},
-			{
-			"name": "Clever Conquer",
-			"author": "JetNine",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 4,
-			"path": "weekly/jetnine/CleverConquer.rsr",
-			"thumbnail": "weekly/jetnine/CleverConquer.png"
-			},
-			{
-			"name": "Millennium",
-			"author": "GDFlutter",
-			"authorSocial": "https://www.youtube.com/channel/UCw0GvsxTNB4NUZl9CXqwhKA",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "weekly/gdflutter/Millennium.rsr",
-			"thumbnail": "weekly/gdflutter/Millennium.png"
-			},
-			{
-			"name": "Places",
-			"author": "Pog",
-			"authorSocial": "https://www.youtube.com/@GoofyAhGato/featured",
+			"name": "Ball Dance",
+			"author": "Dad",
+			"authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
 			"gems": 10,
 			"crowns": 0,
 			"rating": 3,
-			"path": "weekly/pog/Places.rsr",
-			"thumbnail": "weekly/pog/Places.png"
+			"path": "weekly/broxgamer/balldance.rsr",
+			"thumbnail": "weekly/broxgamer/balldance.png"
+			},
+			{
+			"name": "Peculiar Velocity",
+			"author": "FrogB",
+			"authorSocial": "https://linktr.ee/FrogB",
+			"gems": 10,
+			"crowns": 0,
+			"rating": 3,
+			"path": "weekly/frogb/PeculiarVelocity.rsr",
+			"thumbnail": "weekly/frogb/PeculiarVelocity.png"
+			},
+			{
+			"name": "Cryptic Geopolis",
+			"author": "T8A",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 3,
+			"path": "weekly/T8A/CrypticGeopolis.rsr",
+			"thumbnail": "weekly/T8A/CrypticGeopolis.png"
+			},
+			{
+			"name": "Experience",
+			"author": "RS Brazil",
+			"authorSocial": "https://youtube.com/@RSBrazilOFFICIAL?si=6lm3lqCwlGwijV3Q",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "weekly/rs_brazil/Experience.rsr",
+			"thumbnail": "weekly/rs_brazil/Experience.png"
 			},
           {
             "name": "Obstacle Demo",
