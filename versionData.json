@@ -580,14 +580,74 @@
         ],
         "featured": [
 			{
-			"name": "Ball Dance",
-			"author": "BroXgamer",
-			"authorSocial": "https://www.youtube.com/channel/UC6UlQ0w1TDKB8mMlHku_TAA",
+			"name": "Charged Love",
+			"author": "Jetnine, FrogB, U1m",
+			"authorSocial": "",
 			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/1/ChargedLove.rsr",
+			"thumbnail": "list/1/ChargedLove.png"
+			},
+			{
+			"name": "Multiverse",
+			"author": "Megacollab",
+			"authorSocial": "",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/2/Multiverse.rsr",
+			"thumbnail": "list/2/Multiverse.png"
+			},
+			{
+			"name": "Dusk",
+			"author": "RS Brazil",
+			"authorSocial": "",
+			"gems": 5,
 			"crowns": 0,
-			"rating": 3,
-			"path": "list/1/BallDance.rsr",
-			"thumbnail": "list/1/BallDance.png"
+			"rating": 4,
+			"path": "list/3/Dusk.rsr",
+			"thumbnail": "list/3/Dusk.png"
+			},
+			{
+			"name": "Digital Arcadia",
+			"author": "KaizyRS",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/4/DigitalArcadia.rsr",
+			"thumbnail": "list/4/DigitalArcadia.png"
+			},
+			{
+			"name": "Arcade",
+			"author": "AmberRS",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/5/Arcade.rsr",
+			"thumbnail": "list/5/Arcade.png"
+			},
+			{
+			"name": "Digital Descent",
+			"author": "Zhou Yu",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/6/DigitalDescent.rsr",
+			"thumbnail": "list/6/DigitalDescent.png"
+			},
+			{
+			"name": "TeraVolt",
+			"author": "Culymai & CosmoS",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/7/TeraVolt.rsr",
+			"thumbnail": "list/7/TeraVolt.png"
 			}
         ]
       }
