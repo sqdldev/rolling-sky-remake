@@ -75,7 +75,7 @@
 				if (!urlParams.get('all') && url.startsWith('http')) {
 					window.location.href = url;
 				} else {
-					document.body.innerHTML = '<span id="title">All Downloads (' + f.latest + 'r)</span><ul>' + f.latestUrl.map((e, i) => {
+					document.body.innerHTML = '<span id="title">All Downloads (' + f.latest + 'r)</span><p style="white-space: pre-wrap;line-height: 1.5;margin-bottom: 1em;">I lied. this is the last update. Im leaving again after this<br/><br/>Keybinds:<br/>CTRL+SHIFT+S: Boolean menu<br/>RSHIFT: Runtime Inspector</p><ul>' + f.latestUrl.map((e, i) => {
 						if (e.startsWith('http')) {
 							return '<li><a target="_blank" href="' + e + '">' + Object.keys(OSType)[i] + '</a></li>';
 						} else {
