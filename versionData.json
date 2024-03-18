@@ -607,8 +607,8 @@
 			"gems": 10,
 			"crowns": 3,
 			"rating": 5,
-			"path": "list/3/SkyHighk.rsr",
-			"thumbnail": "list/3/SkyHighk.png"
+			"path": "list/3/SkyHigh.rsr",
+			"thumbnail": "list/3/SkyHigh.png"
 			},
 			{
 			"name": "Charged Love",
@@ -628,7 +628,7 @@
 			"crowns": 3,
 			"rating": 5,
 			"path": "list/5/FestivalTrip.rsr",
-			"thumbnail": "list/5/FestivalTrip.jpg"
+			"thumbnail": "list/5/FestivalTrip.png"
 			},
 			{
 			"name": "Connection Hijack",
