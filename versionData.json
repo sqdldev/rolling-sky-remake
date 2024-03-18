@@ -581,18 +581,18 @@
         ],
         "featured": [
 			{
-			"name": "Charged Love",
-			"author": "Jetnine, FrogB, U1m",
+			"name": "Clubhouse Games",
+			"author": "MasterMonivin",
 			"authorSocial": "",
-			"gems": 10,
+			"gems": 20,
 			"crowns": 3,
 			"rating": 5,
-			"path": "list/1/ChargedLove.rsr",
-			"thumbnail": "list/1/ChargedLove.png"
+			"path": "list/1/clubhousegames.rsr",
+			"thumbnail": "list/1/clubhousegames.png"
 			},
 			{
 			"name": "Multiverse",
-			"author": "Megacollab",
+			"author": "Team Multiverse",
 			"authorSocial": "",
 			"gems": 20,
 			"crowns": 3,
@@ -601,54 +601,84 @@
 			"thumbnail": "list/2/Multiverse.png"
 			},
 			{
+			"name": "Sky High",
+			"author": "Saka",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/3/SkyHighk.rsr",
+			"thumbnail": "list/3/SkyHighk.png"
+			},
+			{
+			"name": "Charged Love",
+			"author": "Jetnine, FrogB, U1m",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/4/ChargedLove.rsr",
+			"thumbnail": "list/4/ChargedLove.png"
+			},
+			{
+			"name": "Festival Trip",
+			"author": "MasterMonivin",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/5/FestivalTrip.rsr",
+			"thumbnail": "list/5/FestivalTrip.jpg"
+			},
+			{
+			"name": "Connection Hijack",
+			"author": "Unsent1mental",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/6/ConnectionHijack.rsr",
+			"thumbnail": "list/6/ConnectionHijack.png"
+			},
+			{
+			"name": "To The Future",
+			"author": "Saka & MasterMonivin",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/7/ToTheFuture.rsr",
+			"thumbnail": "list/7/ToTheFuture.png"
+			},
+			{
 			"name": "Dusk",
 			"author": "RS Brazil",
 			"authorSocial": "",
 			"gems": 5,
 			"crowns": 0,
 			"rating": 4,
-			"path": "list/3/Dusk.rsr",
-			"thumbnail": "list/3/Dusk.png"
+			"path": "list/8/Dusk.rsr",
+			"thumbnail": "list/8/Dusk.png"
 			},
 			{
-			"name": "Digital Arcadia",
-			"author": "KaizyRS",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/4/DigitalArcadia.rsr",
-			"thumbnail": "list/4/DigitalArcadia.png"
-			},
-			{
-			"name": "Arcade",
-			"author": "AmberRS",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/5/Arcade.rsr",
-			"thumbnail": "list/5/Arcade.png"
-			},
-			{
-			"name": "Digital Descent",
-			"author": "Zhou Yu",
+			"name": "Contamination",
+			"author": "FrogB",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 6,
-			"path": "list/6/DigitalDescent.rsr",
-			"thumbnail": "list/6/DigitalDescent.png"
+			"path": "list/9/Contamination.rsr",
+			"thumbnail": "list/9/Contamination.png"
 			},
 			{
-			"name": "TeraVolt",
-			"author": "Culymai & CosmoS",
+			"name": "Aurora",
+			"author": "RS Brazil",
 			"authorSocial": "",
 			"gems": 10,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/7/TeraVolt.rsr",
-			"thumbnail": "list/7/TeraVolt.png"
+			"crowns": 0,
+			"rating": 5,
+			"path": "list/10/Aurora.rsr",
+			"thumbnail": "list/10/Aurora.png"
 			}
         ]
       }
