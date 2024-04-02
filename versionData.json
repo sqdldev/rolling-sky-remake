@@ -581,104 +581,194 @@
         ],
         "featured": [
 			{
-			"name": "Dynamical?",
-			"author": "You",
+			"name": "???",
+			"author": "Me",
 			"authorSocial": "",
-			"gems": 4,
-			"crowns": 1,
-			"rating": 0,
-			"path": "list/1/NOTDynamical.rsr",
-			"thumbnail": "list/1/NOTDynamical.png"
-			},
-			{
-			"name": "Multi",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 10,
+			"gems": 0,
 			"crowns": 0,
 			"rating": 0,
-			"path": "list/2/Empty.rsr",
-			"thumbnail": "list/2/blackbox.png"
-			},
-			{
-			"name": "Sky H",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/3/Empty.rsr",
-			"thumbnail": "list/3/blackbox.png"
-			},
-			{
-			"name": "Char",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/4/Empty.rsr",
-			"thumbnail": "list/4/blackbox.png"
-			},
-			{
-			"name": "Festiv",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/5/Empty.rsr",
-			"thumbnail": "list/5/blackbox.png"
-			},
-			{
-			"name": "Connectio",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/6/Empty.rsr",
-			"thumbnail": "list/6/blackbox.png"
-			},
-			{
-			"name": "To The",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/7/Empty.rsr",
-			"thumbnail": "list/7/blackbox.png"
-			},
-			{
-			"name": "Du",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 0,
-			"rating": 4,
-			"path": "list/8/Empty.rsr",
-			"thumbnail": "list/8/blackbox.png"
-			},
-			{
-			"name": "Contami",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/9/Empty.rsr",
-			"thumbnail": "list/9/blackbox.png"
-			},
-			{
-			"name": "Aur",
-			"author": "None",
-			"authorSocial": "",
-			"gems": 5,
-			"crowns": 0,
-			"rating": 5,
 			"path": "list/10/Empty.rsr",
 			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "???",
+			"author": "Me",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/10/Empty.rsr",
+			"thumbnail": "list/10/blackbox.png"
+			},
+			{
+			"name": "Halved Halved Halved",
+			"author": "You",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 0,
+			"path": "list/1/half.rsr",
+			"thumbnail": "list/1/half.png"
 			}
         ]
       }
