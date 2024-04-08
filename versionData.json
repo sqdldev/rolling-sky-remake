@@ -581,194 +581,94 @@
         ],
         "featured": [
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Beyond Reality",
+			"author": "[COLLAB]",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 20,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/1/BeyondReality.rsr",
+			"thumbnail": "list/1/BeyondReality.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Solace Of Dreams",
+			"author": "[COLLAB]",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/2/SOD.rsr",
+			"thumbnail": "list/2/SOD.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Journey to World",
+			"author": "Saka",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/3/JTW.rsr",
+			"thumbnail": "list/3/JTW.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Save This World",
+			"author": "Unsent1mental",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/4/STW.rsr",
+			"thumbnail": "list/4/STW.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "River of China",
+			"author": "RSBrazil",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/5/ROC.rsr",
+			"thumbnail": "list/5/ROC.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Cyber Vision",
+			"author": "[COLLAB]",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/6/CyberVision.rsr",
+			"thumbnail": "list/6/CyberVision.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Mars",
+			"author": "Pog",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 10,
+			"crowns": 3,
+			"rating": 3,
+			"path": "list/7/Mars.rsr",
+			"thumbnail": "list/7/Mars.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Majestic Celebration",
+			"author": "[COLLAB]",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
+			"gems": 15,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/8/MajesticCelebration.rsr",
+			"thumbnail": "list/8/MajesticCelebration.png"
 			},
 			{
-			"name": "???",
-			"author": "Me",
+			"name": "Everlasting Fantasy",
+			"author": "[COLLAB]",
 			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "???",
-			"author": "Me",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/10/Empty.rsr",
-			"thumbnail": "list/10/blackbox.png"
-			},
-			{
-			"name": "Halved Halved Halved",
-			"author": "You",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 0,
-			"path": "list/1/half.rsr",
-			"thumbnail": "list/1/half.png"
+			"gems": 10,
+			"crowns": 3,
+			"rating": 3,
+			"path": "list/9/EverlastingFantasy.rsr",
+			"thumbnail": "list/9/EverlastingFantasy.png"
 			}
         ]
       }
