@@ -632,7 +632,7 @@
 			},
 			{
 			"name": "Cyber Vision",
-			"author": "[COLLAB]",
+			"author": "MasterMonivin",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
@@ -669,6 +669,16 @@
 			"rating": 3,
 			"path": "list/9/EverlastingFantasy.rsr",
 			"thumbnail": "list/9/EverlastingFantasy.png"
+			},
+			{
+			"name": "Mood",
+			"author": "Mama Kat",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/10/yes.rsr",
+			"thumbnail": "list/10/yes.png"
 			}
         ]
       }
