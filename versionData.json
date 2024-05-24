@@ -581,104 +581,154 @@
         ],
         "featured": [
 			{
-			"name": "Beyond Reality",
-			"author": "[COLLAB]",
+			"name": "Eclipse",
+			"author": "BroXgamer",
 			"authorSocial": "",
-			"gems": 20,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/1/BeyondReality.rsr",
-			"thumbnail": "list/1/BeyondReality.png"
-			},
-			{
-			"name": "Solace Of Dreams",
-			"author": "[COLLAB]",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
+			"gems": 5,
+			"crowns": 0,
 			"rating": 5,
-			"path": "list/2/SOD.rsr",
-			"thumbnail": "list/2/SOD.png"
+			"path": "list/1/Eclipse.rsr",
+			"thumbnail": "list/1/Eclipse.png"
 			},
 			{
-			"name": "Journey to World",
-			"author": "Saka",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/3/JTW.rsr",
-			"thumbnail": "list/3/JTW.png"
-			},
-			{
-			"name": "Save This World",
-			"author": "Unsent1mental",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/4/STW.rsr",
-			"thumbnail": "list/4/STW.png"
-			},
-			{
-			"name": "River of China",
-			"author": "RSBrazil",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/5/ROC.rsr",
-			"thumbnail": "list/5/ROC.png"
-			},
-			{
-			"name": "Cyber Vision",
+			"name": "Golden Hour",
 			"author": "MasterMonivin",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 5,
-			"path": "list/6/CyberVision.rsr",
-			"thumbnail": "list/6/CyberVision.png"
+			"path": "list/2/GoldenHour.rsr",
+			"thumbnail": "list/2/GoldenHour.png"
 			},
 			{
-			"name": "Mars",
-			"author": "Pog",
+			"name": "Heartwave",
+			"author": "Saka",
 			"authorSocial": "",
 			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "list/7/Mars.rsr",
-			"thumbnail": "list/7/Mars.png"
-			},
-			{
-			"name": "Majestic Celebration",
-			"author": "[COLLAB]",
-			"authorSocial": "",
-			"gems": 15,
 			"crowns": 3,
 			"rating": 6,
-			"path": "list/8/MajesticCelebration.rsr",
-			"thumbnail": "list/8/MajesticCelebration.png"
+			"path": "list/3/Heartwave.rsr",
+			"thumbnail": "list/3/Heartwave.png"
 			},
 			{
-			"name": "Everlasting Fantasy",
+			"name": "Fallen Nights",
 			"author": "[COLLAB]",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "list/9/EverlastingFantasy.rsr",
-			"thumbnail": "list/9/EverlastingFantasy.png"
-			},
-			{
-			"name": "Mood",
-			"author": "Mama Kat",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 4,
-			"path": "list/10/yes.rsr",
-			"thumbnail": "list/10/yes.png"
+			"path": "list/4/FallenNights.rsr",
+			"thumbnail": "list/4/FallenNights.png"
+			},
+			{
+			"name": "Elemelons",
+			"author": "Axel",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/5/Elemelons.rsr",
+			"thumbnail": "list/5/Elemelons.png"
+			},
+			{
+			"name": "Aeronautica",
+			"author": "Lexay",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 3,
+			"path": "list/6/Aeronautica.rsr",
+			"thumbnail": "list/6/Aeronautica.png"
+			},
+			{
+			"name": "Redzone Blitz",
+			"author": "Derrdog",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/7/RedzoneBlitz.rsr",
+			"thumbnail": "list/7/RedzoneBlitz.png"
+			},
+			{
+			"name": "Zoophobia",
+			"author": "Unsent1mental and Mommy Kitty",
+			"authorSocial": "",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/8/Zoophobia.rsr",
+			"thumbnail": "list/8/Zoophobia.png"
+			},
+			{
+			"name": "Sky City",
+			"author": "Saka",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/9/SkyCity.rsr",
+			"thumbnail": "list/9/SkyCity.png"
+			},
+			{
+			"name": "Sakura",
+			"author": "MasterMonivin",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/10/Sakura.rsr",
+			"thumbnail": "list/10/Sakura.png"
+			},
+			{
+			"name": "Virtual Chasm",
+			"author": "MasterMonivin",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 3,
+			"path": "list/Extra/VirtualChasm.rsr",
+			"thumbnail": "list/Extra/VirtualChasm.png"
+			},
+			{
+			"name": "Chilly",
+			"author": "RS Brazil",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/Extra/Chilly.rsr",
+			"thumbnail": "list/Extra/Chilly.png"
+			},
+			{
+			"name": "A Memory Is Alive",
+			"author": "Saka and RS Brazil",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/Extra/AMIA.rsr",
+			"thumbnail": "list/Extra/AMIA.png"
+			},
+			{
+			"name": "MoonTrip",
+			"author": "Rollingskyfan",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/Extra/MoonTrip.rsr",
+			"thumbnail": "list/Extra/MoonTrip.png"
+			},
+			{
+			"name": "Cosmic Planet",
+			"author": "Magic",
+			"authorSocial": "",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/Extra/CosmicPlanet.rsr",
+			"thumbnail": "list/Extra/CosmicPlanet.png"
 			}
         ]
       }
