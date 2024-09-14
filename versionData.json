@@ -597,7 +597,7 @@
 			"gems": 10,
 			"crowns": 3,
 			"rating": 4,
-			"path": "list/2/StarsofNostalgia.rsr",
+			"path": "list/2/starsofnostalgia.rsr",
 			"thumbnail": "list/2/StarsofNostalgia.png"
 			},
 			{
@@ -637,8 +637,8 @@
 			"gems": 10,
 			"crowns": 3,
 			"rating": 4,
-			"path": "list/6/PressStart.rsr",
-			"thumbnail": "list/6/PressStart.png"
+			"path": "list/6/pressstart.rsr",
+			"thumbnail": "list/6/pressstart.png"
 			},
 			{
 			"name": "Bedtime Story",
