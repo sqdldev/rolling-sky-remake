@@ -581,305 +581,165 @@
         ],
         "featured": [
 			{
-			"name": "Bird in the Beach",
-			"author": "Prider",
+			"name": "E-Heartwave",
+			"author": "Saka",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 4,
-			"path": "list/1/BITB.rsr",
-			"thumbnail": "list/1/BITB.png"
+			"path": "list/1/EHeartwave.rsr",
+			"thumbnail": "list/1/EHeartwave.png"
 			},
 			{
-			"name": "The Bankroll",
+			"name": "Stars of Nostalgia",
+			"author": "MM",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/2/StarsofNostalgia.rsr",
+			"thumbnail": "list/2/StarsofNostalgia.png"
+			},
+			{
+			"name": "Acu",
+			"author": "Afton and Sneek22",
+			"authorSocial": "",
+			"gems": 15,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/3/Acu.rsr",
+			"thumbnail": "list/3/Acu.png"
+			},
+			{
+			"name": "I FEEL ALIVE",
 			"author": "Unsent1mental",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
-			"rating": 5,
-			"path": "list/2/TheBankroll.rsr",
-			"thumbnail": "list/2/TheBankroll.png"
-			},
-			{
-			"name": "Golden Hour",
-			"author": "RS Brazil & Unsent1mental",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/3/GoldenHour.rsr",
-			"thumbnail": "list/3/GoldenHour.png"
-			},
-			{
-			"name": "Era",
-			"author": "MasterMonivin",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "list/4/Era.rsr",
-			"thumbnail": "list/4/Era.png"
-			},
-			{
-			"name": "Neon Eyes III",
-			"author": "KaizyRS",
-			"authorSocial": "",
-			"gems": 15,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/5/NE3.rsr",
-			"thumbnail": "list/5/NE3.png"
-			},
-			{
-			"name": "Farewell",
-			"author": "KONGG",
-			"authorSocial": "",
-			"gems": 15,
-			"crowns": 3,
 			"rating": 6,
-			"path": "list/6/Farewell.rsr",
-			"thumbnail": "list/6/Farewell.png"
+			"path": "list/4/IFEELALIVE.rsr",
+			"thumbnail": "list/4/IFEELALIVE.png"
 			},
 			{
-			"name": "Recollection",
-			"author": "Candy Girl",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "list/7/Recollection.rsr",
-			"thumbnail": "list/7/Recollection.png"
-			},
-			{
-			"name": "Funky World",
-			"author": "AmberRS",
+			"name": "Universal-X",
+			"author": "Jetnine",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 5,
-			"path": "list/8/FunkyWorld.rsr",
-			"thumbnail": "list/8/FunkyWorld.png"
+			"path": "list/5/Universal-X.rsr",
+			"thumbnail": "list/5/Universal-X.png"
 			},
 			{
-			"name": "Violent Killer",
-			"author": "KaizyRS",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/9/ViolentKiller.rsr",
-			"thumbnail": "list/9/ViolentKiller.png"
-			},
-			{
-			"name": "Dimensions",
-			"author": "Unsent1mental & Xhylxe",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 0,
-			"rating": 5,
-			"path": "list/10/Dimensions.rsr",
-			"thumbnail": "list/10/Dimensions.png"
-			},
-			{
-			"name": "Autumnal Gleam",
-			"author": "FrogB",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "list/Extra/AutumnalGleam.rsr",
-			"thumbnail": "list/Extra/AutumnalGleam.png"
-			},
-			{
-			"name": "Century Chess Match",
-			"author": "DeGUA",
-			"authorSocial": "",
-			"gems": 20,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/Extra/CCM.rsr",
-			"thumbnail": "list/Extra/CCM.png"
-			},
-			{
-			"name": "Cupid",
-			"author": "MasterMonivin",
+			"name": "Press Start",
+			"author": "MM",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 4,
-			"path": "list/Extra/Cupid.rsr",
-			"thumbnail": "list/Extra/Cupid.png"
+			"path": "list/6/PressStart.rsr",
+			"thumbnail": "list/6/PressStart.png"
 			},
 			{
-			"name": "Amnesia",
-			"author": "KaizyRS",
-			"authorSocial": "",
-			"gems": 20,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/Amnesia.rsr",
-			"thumbnail": "list/Extra/Amnesia.png"
-			},
-			{
-			"name": "Endless Love",
-			"author": "MasterMonivin",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 0,
-			"rating": 1,
-			"path": "list/Extra/EndlessLove.rsr",
-			"thumbnail": "list/Extra/EndlessLove.png"
-			},
-			{
-			"name": "Crystal City",
-			"author": "AmberRS",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/CrystalCity.rsr",
-			"thumbnail": "list/Extra/CrystalCity.png"
-			},
-			{
-			"name": "Clock Factory",
-			"author": "MasterMonivin & Saka",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/Extra/ClockFactory.rsr",
-			"thumbnail": "list/Extra/ClockFactory.png"
-			},
-			{
-			"name": "Iambic",
-			"author": "ToRi",
-			"authorSocial": "",
-			"gems": 0,
-			"crowns": 0,
-			"rating": 5,
-			"path": "list/Extra/Iambic.rsr",
-			"thumbnail": "list/Extra/Iambic.png"
-			},
-			{
-			"name": "Energy​ System",
-			"author": "ShineRS",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/Energy​System.rsr",
-			"thumbnail": "list/Extra/Energy​System.png"
-			},
-			{
-			"name": "Rainforest",
-			"author": "AmberRS",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/Rainforest.rsr",
-			"thumbnail": "list/Extra/Rainforest.png"
-			},
-			{
-			"name": "Sugar Island",
-			"author": "Derrog",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/SugarIsland.rsr",
-			"thumbnail": "list/Extra/SugarIsland.png"
-			},
-			{
-			"name": "Magical Place",
-			"author": "AmberRS",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "list/Extra/MagicalPlace.rsr",
-			"thumbnail": "list/Extra/MagicalPlace.png"
-			},
-			{
-			"name": "Consolation of Years",
-			"author": "Lazzy",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/Extra/COY.rsr",
-			"thumbnail": "list/Extra/COY.png"
-			},
-			{
-			"name": "World Cup Championship",
-			"author": "Cryomancer",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/WCC.rsr",
-			"thumbnail": "list/Extra/WCC.png"
-			},
-			{
-			"name": "Circuit Chasm",
-			"author": "Pillars",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/CircuitChasm.rsr",
-			"thumbnail": "list/Extra/CircuitChasm.png"
-			},
-			{
-			"name": "Mood Cover",
-			"author": "kk do you love me",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/MoodCover.rsr",
-			"thumbnail": "list/Extra/MoodCover.png"
-			},
-			{
-			"name": "Shine",
-			"author": "Prider",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/Extra/Shine.rsr",
-			"thumbnail": "list/Extra/Shine.png"
-			},
-			{
-			"name": "3 Years",
-			"author": "Lazzy",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/Extra/3Years.rsr",
-			"thumbnail": "list/Extra/3Years.png"
-			},
-			{
-			"name": "Geometric Future",
+			"name": "Bedtime Story",
 			"author": "Derrdog",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
-			"rating": 4,
-			"path": "list/Extra/GeometricFuture.rsr",
-			"thumbnail": "list/Extra/GeometricFuture.png"
+			"rating": 3,
+			"path": "list/7/BedtimeStory.rsr",
+			"thumbnail": "list/7/BedtimeStory.png"
 			},
 			{
-			"name": "Summer Sky",
-			"author": "AA25",
+			"name": "Skyscape",
+			"author": "PaSword",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 5,
-			"path": "list/Extra/SummerSky.rsr",
-			"thumbnail": "list/Extra/SummerSky.png"
-			}	
+			"path": "list/8/Skyscape.rsr",
+			"thumbnail": "list/8/Skyscape.png"
+			},
+			{
+			"name": "Digital World",
+			"author": "Amber",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/9/Digitalworld.rsr",
+			"thumbnail": "list/9/Digitalworld.png"
+			},
+			{
+			"name": "Sonority​ Planets",
+			"author": "ShineRS",
+			"authorSocial": "",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/10/Sonority​Planets.rsr",
+			"thumbnail": "list/10/Sonority​Planets.png"
+			},
+			{
+			"name": "The Glorious Sea",
+			"author": "Pog",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 0,
+			"rating": 3,
+			"path": "list/Extra/TheGloriousSea​.rsr",
+			"thumbnail": "list/Extra/TheGloriousSea.png"
+			},
+			{
+			"name": "Restarting Realms",
+			"author": "AA24 and T8A",
+			"authorSocial": "",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/Extra/RestartingRealms​.rsr",
+			"thumbnail": "list/Extra/RestartingRealms.png"
+			},
+			{
+			"name": "Love Beat",
+			"author": "Meteor Cat",
+			"authorSocial": "",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 3,
+			"path": "list/Extra/LoveBeat​.rsr",
+			"thumbnail": "list/Extra/LoveBeat.png"
+			},
+			{
+			"name": "Dusk Factory",
+			"author": "Pog",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/Extra/DuskFactory​.rsr",
+			"thumbnail": "list/Extra/DuskFactory.png"
+			},
+			{
+			"name": "Play Time",
+			"author": "Candy Girl",
+			"authorSocial": "",
+			"gems": 0,
+			"crowns": 0,
+			"rating": 5,
+			"path": "list/Extra/PlayTime​.rsr",
+			"thumbnail": "list/Extra/PlayTime.png"
+			},
+			{
+			"name": "Ethereal Vice",
+			"author": "Afton",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/Extra/EtherealVice​.rsr",
+			"thumbnail": "list/Extra/EtherealVice.png"
+			}
         ]
       }
     }
