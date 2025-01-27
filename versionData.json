@@ -581,104 +581,107 @@
         ],
         "featured": [
 			{
-			"name": "E-Heartwave",
-			"author": "Saka",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/1/EHeartwave.rsr",
-			"thumbnail": "list/1/EHeartwave.png"
-			},
-			{
-			"name": "Stars of Nostalgia",
-			"author": "MasterMonivin",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/2/starsofnostalgia.rsr",
-			"thumbnail": "list/2/StarsofNostalgia.png"
-			},
-			{
-			"name": "Acu",
-			"author": "Afton and Sneek22",
-			"authorSocial": "",
-			"gems": 15,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/3/Acu.rsr",
-			"thumbnail": "list/3/Acu.png"
-			},
-			{
-			"name": "I FEEL ALIVE",
-			"author": "Unsent1mental",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 6,
-			"path": "list/4/IFEELALIVE.rsr",
-			"thumbnail": "list/4/IFEELALIVE.png"
-			},
-			{
-			"name": "Universal-X",
-			"author": "Jetnine and Visualize",
+			"name": "Forgotten Crystal Palace",
+			"author": "DeGUA",
 			"authorSocial": "",
 			"gems": 10,
 			"crowns": 3,
 			"rating": 5,
-			"path": "list/5/Universal-X.rsr",
-			"thumbnail": "list/5/Universal-X.png"
+			"path": "list/1/ForgottenCrystalPalace.rsr",
+			"thumbnail": "list/1/ForgottenCrystalPalace.png"
 			},
 			{
-			"name": "Press Start",
-			"author": "MasterMonivin",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 4,
-			"path": "list/6/pressstart.rsr",
-			"thumbnail": "list/6/pressstart.png"
-			},
-			{
-			"name": "Bedtime Story",
-			"author": "Derrdog",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 3,
-			"path": "list/7/BedtimeStory.rsr",
-			"thumbnail": "list/7/BedtimeStory.png"
-			},
-			{
-			"name": "Skyscape",
-			"author": "PaSword",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/8/Skyscape.rsr",
-			"thumbnail": "list/8/Skyscape.png"
-			},
-			{
-			"name": "Digital World",
-			"author": "Amber",
-			"authorSocial": "",
-			"gems": 10,
-			"crowns": 3,
-			"rating": 5,
-			"path": "list/9/DigitalWorld.rsr",
-			"thumbnail": "list/9/Digitalworld.png"
-			},
-			{
-			"name": "Sonority​ Planets",
-			"author": "ShineRS",
+			"name": "Renaissance",
+			"author": "Huy Trien",
 			"authorSocial": "",
 			"gems": 20,
 			"crowns": 3,
 			"rating": 6,
-			"path": "list/10/Sonority​Planets.rsr",
-			"thumbnail": "list/10/Sonority​Planets.png"
+			"path": "list/2/Renaissance.rsr",
+			"thumbnail": "list/2/Renaissance.png"
+			},
+			{
+			"name": "Girls...",
+			"author": "Darwin",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/3/Girls.rsr",
+			"thumbnail": "list/3/Girls.png"
+			},
+			{
+			"name": "Urban Christmas",
+			"author": "AmberRS",
+			"type": 2,
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/4/UrbanChristmas.rsr",
+			"thumbnail": "list/4/UrbanChristmas.png"
+			},
+			{
+			"name": "Golden Moonlit",
+			"author": "ShineRS",
+			"authorSocial": "",
+			"type": 2,
+			"gems": 10,
+			"crowns": 3,
+			"rating": 4,
+			"path": "list/5/GoldenMoonlit.rsr",
+			"thumbnail": "list/5/GoldenMoonlit.png"
+			},
+			{
+			"name": "Starry Snow",
+			"author": "RS Brazil",
+			"authorSocial": "",
+			"type": 2,
+			"gems": 10,
+			"crowns": 3,
+			"rating": 2,
+			"path": "list/6/StarrySnow.rsr",
+			"thumbnail": "list/6/StarrySnow.png"
+			},
+			{
+			"name": "Rock Bowling",
+			"author": "Candy Girl",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/7/RockBowling.rsr",
+			"thumbnail": "list/7/RockBowling.png"
+			},
+			{
+			"name": "Dazzling City",
+			"author": "AmberRS",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/8/DazzlingCity.rsr",
+			"thumbnail": "list/8/DazzlingCity.png"
+			},
+			{
+			"name": "Supercharge",
+			"author": "ShineRS",
+			"authorSocial": "",
+			"gems": 10,
+			"crowns": 3,
+			"rating": 6,
+			"path": "list/9/Supercharge.rsr",
+			"thumbnail": "list/9/Supercharge.png"
+			},
+			{
+			"name": "Shooting Star",
+			"author": "ShineRS",
+			"authorSocial": "",
+			"gems": 20,
+			"crowns": 3,
+			"rating": 5,
+			"path": "list/10/ShootingStar.rsr",
+			"thumbnail": "list/10/ShootingStar.png"
 			}
         ]
       }
