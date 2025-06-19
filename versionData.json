@@ -580,6 +580,17 @@
           "amon gus"
         ],
         "featured": [
+	{
+		"name": "<color=\"#ff0000\">ANNOUNCEMENT</color>",
+		"author": "\n\n\n\nbroxgayer",
+		"authorSocial": "",
+		"type": 0,
+		"gems": 0,
+		"crowns": 0,
+		"rating": 0,
+		"path": "Gusbound.rsr",
+		"thumbnail": "warn.png"
+	},
 			{
 			"name": "Forgotten Crystal Palace",
 			"author": "DeGUA",
